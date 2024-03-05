@@ -1,2 +1,2 @@
-# -codesoft-project-1
+# -codesoft-project
 This is my first Git Repository
